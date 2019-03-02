@@ -61,7 +61,7 @@ Sign up list for the Kali Linux Tools Research Project
     SSLsplit -
     sslstrip -
     SSLyze -
-    Sublist3r -
+    Sublist3r - Drew
     THC-IPV6 -
     theHarvester -
     TLSSLed -
