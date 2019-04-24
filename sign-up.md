@@ -63,7 +63,7 @@ Sign up list for the Kali Linux Tools Research Project
     SSLyze -
     Sublist3r -
     THC-IPV6 -
-    theHarvester -
+    theHarvester - Sylver
     TLSSLed -
     twofi -
     Unicornscan -
