@@ -1,10 +1,10 @@
 # Kali-tools
 Sign up list for the Kali Linux Tools Research Project
 
-# Please write your name beside the tool you want to do a presentation for:
+You can find the complete list of Kali tools at : https://tools.kali.org/tools-listing
 
-# Information Gathering
-    Sublist3r - Drew - DONE
-    ace-voip - Julian
-    theHarvester - Sylver
+# Please write your name beside the tool you want to do a presentation for:
+Sublist3r - Drew - DONE
+ace-voip - Julian
+theHarvester - Sylver
     
